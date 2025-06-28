@@ -22,7 +22,7 @@ const Home: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-primary-900 mb-4">
-              Featured Vehicles
+              Featured Vehicles get it now
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Discover our most popular and premium vehicles, perfect for any occasion.
