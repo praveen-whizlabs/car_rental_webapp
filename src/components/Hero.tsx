@@ -22,7 +22,7 @@ const Hero: React.FC = () => {
           <div className="animate-slide-up">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6">
               Premium Car Rentals
-              <span className="block text-accent-500">Made Simple</span>
+              <span className="block text-accent-500">Made Simple by PKR Transport</span>
             </h1>
             <p className="text-xl text-gray-200 mb-8 leading-relaxed">
               Experience luxury and comfort with our premium fleet of vehicles. 
